@@ -1,6 +1,6 @@
 # Use Github Action to compile Recovery
 [![Recovery Build](https://github.com/weaponmasterjax/Action-Recovery-builder/actions/workflows/Recovery%20Build.yml/badge.svg)](https://github.com/weaponmasterjax/Action-Recovery-builder/actions/workflows/Recovery%20Build.yml)
-- Support ~~OFRP~~, SHRP, TWRP compilation and production
+- Support SHRP, TWRP compilation and production
 
 ---
 
@@ -12,7 +12,7 @@
 ## Release Notes
 ```
 = 2022/10/28
-- OFRP manifest is changed, so not fully support OFRP now (if you can slove this, please submit a pull request!)
+- OFRP manifest is changed, so not supporting OFRP now (if you can slove this, please submit a pull request!)
 
 = 2022/07/08
 - TWRP and TWRP-based 5.X ~ 12.X are ***ALL COMPILED SUCCESSFULLY***
@@ -118,4 +118,4 @@ Can be downloaded at [Release](../../releases)
 
 #### TeamWin Recovery Project: https://github.com/minimal-manifest-twrp
 #### OrangeFox Recovery Project: https://gitlab.com/OrangeFox/Manifest
-#### SKYHAWK Recovery Project: https://github.com/SHRP/platform_manifest_twrp_omni
+#### SKYHAWK Recovery Project: https://github.com/SHRP/manifest
